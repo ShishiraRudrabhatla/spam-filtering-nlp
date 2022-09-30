@@ -1,0 +1,4 @@
+# spam-filtering-nlp
+This project is to develop spam filtering algorithm.
+Spam is typically defined as undesired text that is sent or received over social media platforms like Facebook, Twitter, YouTube, e-mail, etc. It is produced by spammers in an effort to divert consumer’s attention from social media marketing and malware distribution, among other purposes. Spam filtering is a mechanism used to filter spam messages or emails to prevent its delivery. The volume of unsolicited email has significantly increased, necessitating the development of more robust and efficient antispam filters. Machine learning algorithms have been used to successfully identify and filter spam emails.
+Here, along with the control mechanisms and datasets utilized on spam detection, we also discuss the difficulties in identifying spam.
